@@ -1,0 +1,16 @@
+C:\Users\Reema\source\repos\BalanceChecker\BalanceChecker\bin\Debug\net5.0\BalanceChecker.exe
+C:\Users\Reema\source\repos\BalanceChecker\BalanceChecker\bin\Debug\net5.0\BalanceChecker.deps.json
+C:\Users\Reema\source\repos\BalanceChecker\BalanceChecker\bin\Debug\net5.0\BalanceChecker.runtimeconfig.json
+C:\Users\Reema\source\repos\BalanceChecker\BalanceChecker\bin\Debug\net5.0\BalanceChecker.runtimeconfig.dev.json
+C:\Users\Reema\source\repos\BalanceChecker\BalanceChecker\bin\Debug\net5.0\BalanceChecker.dll
+C:\Users\Reema\source\repos\BalanceChecker\BalanceChecker\bin\Debug\net5.0\ref\BalanceChecker.dll
+C:\Users\Reema\source\repos\BalanceChecker\BalanceChecker\bin\Debug\net5.0\BalanceChecker.pdb
+C:\Users\Reema\source\repos\BalanceChecker\BalanceChecker\obj\Debug\net5.0\BalanceChecker.csprojAssemblyReference.cache
+C:\Users\Reema\source\repos\BalanceChecker\BalanceChecker\obj\Debug\net5.0\BalanceChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reema\source\repos\BalanceChecker\BalanceChecker\obj\Debug\net5.0\BalanceChecker.AssemblyInfoInputs.cache
+C:\Users\Reema\source\repos\BalanceChecker\BalanceChecker\obj\Debug\net5.0\BalanceChecker.AssemblyInfo.cs
+C:\Users\Reema\source\repos\BalanceChecker\BalanceChecker\obj\Debug\net5.0\BalanceChecker.csproj.CoreCompileInputs.cache
+C:\Users\Reema\source\repos\BalanceChecker\BalanceChecker\obj\Debug\net5.0\BalanceChecker.dll
+C:\Users\Reema\source\repos\BalanceChecker\BalanceChecker\obj\Debug\net5.0\ref\BalanceChecker.dll
+C:\Users\Reema\source\repos\BalanceChecker\BalanceChecker\obj\Debug\net5.0\BalanceChecker.pdb
+C:\Users\Reema\source\repos\BalanceChecker\BalanceChecker\obj\Debug\net5.0\BalanceChecker.genruntimeconfig.cache

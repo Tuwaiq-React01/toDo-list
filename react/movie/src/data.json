@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "title": "Avatar",
+      "distributor": "20th Century Fox",
+      "year": 2009,
+      "amount": "$2,787,965,087",
+      "img": {
+        "src": "https://images-na.ssl-images-amazon.com/images/I/61jFTTf9RBL._AC_SL1230_.jpg",
+        "alt": "avatar"
+      },
+      "ranking": 1
+    },
+    {
+      "id": 2,
+      "title": "Lord of the Rings: Return of the King",
+      "distributor": "New Line Cinema",
+      "year": 2003,
+      "amount": "$2,187,463,944",
+      "img": {
+        "src": "https://static.rogerebert.com/uploads/movie/movie_poster/lord-of-the-rings-the-return-of-the-king-2003/large_j6NCjU6Zh7SkfIeN5zDaoTmBn4m.jpg",
+        "alt": "lotr"
+      },
+      "ranking": 2
+    },
+    {
+      "id": 3,
+      "title": "Star Wars: The Force Awakens",
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "year": 2015,
+      "amount": "$2,068,223,624",
+      "img": {
+        "src": "https://images-na.ssl-images-amazon.com/images/I/A16XEWILpEL._AC_SL1500_.jpg",
+        "alt": "star_wars_the_force_awakens"
+      },
+      "ranking": 3
+    },
+    {
+      "id": 4,
+      "title": "Avengers: Infinity War",
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "year": 2018,
+      "amount": "$2,048,359,754",
+      "img": {
+        "src": "https://images-na.ssl-images-amazon.com/images/I/A1t8xCe9jwL._AC_SL1500_.jpg",
+        "alt": "avengers_infinity_war"
+      },
+      "ranking": 4
+    },
+    {
+      "id": 5,
+      "title": "Jurassic World",
+      "distributor": "Universal Pictures",
+      "year": 2015,
+      "amount": "$1,671,713,208",
+      "img": {
+        "src": "https://images-na.ssl-images-amazon.com/images/I/817O-vUusjL._AC_SL1500_.jpg",
+        "alt": "jurassic_world"
+      },
+      "ranking": 5
+    }
+  ]

@@ -1,0 +1,16 @@
+C:\Users\Reema\source\repos\TokenizerEnhanced\TokenizerEnhanced\bin\Debug\net5.0\TokenizerEnhanced.exe
+C:\Users\Reema\source\repos\TokenizerEnhanced\TokenizerEnhanced\bin\Debug\net5.0\TokenizerEnhanced.deps.json
+C:\Users\Reema\source\repos\TokenizerEnhanced\TokenizerEnhanced\bin\Debug\net5.0\TokenizerEnhanced.runtimeconfig.json
+C:\Users\Reema\source\repos\TokenizerEnhanced\TokenizerEnhanced\bin\Debug\net5.0\TokenizerEnhanced.runtimeconfig.dev.json
+C:\Users\Reema\source\repos\TokenizerEnhanced\TokenizerEnhanced\bin\Debug\net5.0\TokenizerEnhanced.dll
+C:\Users\Reema\source\repos\TokenizerEnhanced\TokenizerEnhanced\bin\Debug\net5.0\ref\TokenizerEnhanced.dll
+C:\Users\Reema\source\repos\TokenizerEnhanced\TokenizerEnhanced\bin\Debug\net5.0\TokenizerEnhanced.pdb
+C:\Users\Reema\source\repos\TokenizerEnhanced\TokenizerEnhanced\obj\Debug\net5.0\TokenizerEnhanced.csprojAssemblyReference.cache
+C:\Users\Reema\source\repos\TokenizerEnhanced\TokenizerEnhanced\obj\Debug\net5.0\TokenizerEnhanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reema\source\repos\TokenizerEnhanced\TokenizerEnhanced\obj\Debug\net5.0\TokenizerEnhanced.AssemblyInfoInputs.cache
+C:\Users\Reema\source\repos\TokenizerEnhanced\TokenizerEnhanced\obj\Debug\net5.0\TokenizerEnhanced.AssemblyInfo.cs
+C:\Users\Reema\source\repos\TokenizerEnhanced\TokenizerEnhanced\obj\Debug\net5.0\TokenizerEnhanced.csproj.CoreCompileInputs.cache
+C:\Users\Reema\source\repos\TokenizerEnhanced\TokenizerEnhanced\obj\Debug\net5.0\TokenizerEnhanced.dll
+C:\Users\Reema\source\repos\TokenizerEnhanced\TokenizerEnhanced\obj\Debug\net5.0\ref\TokenizerEnhanced.dll
+C:\Users\Reema\source\repos\TokenizerEnhanced\TokenizerEnhanced\obj\Debug\net5.0\TokenizerEnhanced.pdb
+C:\Users\Reema\source\repos\TokenizerEnhanced\TokenizerEnhanced\obj\Debug\net5.0\TokenizerEnhanced.genruntimeconfig.cache

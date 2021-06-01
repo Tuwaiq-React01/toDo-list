@@ -1,0 +1,16 @@
+C:\Users\Reema\source\repos\PreDir\PreDir\bin\Debug\net5.0\PreDir.exe
+C:\Users\Reema\source\repos\PreDir\PreDir\bin\Debug\net5.0\PreDir.deps.json
+C:\Users\Reema\source\repos\PreDir\PreDir\bin\Debug\net5.0\PreDir.runtimeconfig.json
+C:\Users\Reema\source\repos\PreDir\PreDir\bin\Debug\net5.0\PreDir.runtimeconfig.dev.json
+C:\Users\Reema\source\repos\PreDir\PreDir\bin\Debug\net5.0\PreDir.dll
+C:\Users\Reema\source\repos\PreDir\PreDir\bin\Debug\net5.0\ref\PreDir.dll
+C:\Users\Reema\source\repos\PreDir\PreDir\bin\Debug\net5.0\PreDir.pdb
+C:\Users\Reema\source\repos\PreDir\PreDir\obj\Debug\net5.0\PreDir.csprojAssemblyReference.cache
+C:\Users\Reema\source\repos\PreDir\PreDir\obj\Debug\net5.0\PreDir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reema\source\repos\PreDir\PreDir\obj\Debug\net5.0\PreDir.AssemblyInfoInputs.cache
+C:\Users\Reema\source\repos\PreDir\PreDir\obj\Debug\net5.0\PreDir.AssemblyInfo.cs
+C:\Users\Reema\source\repos\PreDir\PreDir\obj\Debug\net5.0\PreDir.csproj.CoreCompileInputs.cache
+C:\Users\Reema\source\repos\PreDir\PreDir\obj\Debug\net5.0\PreDir.dll
+C:\Users\Reema\source\repos\PreDir\PreDir\obj\Debug\net5.0\ref\PreDir.dll
+C:\Users\Reema\source\repos\PreDir\PreDir\obj\Debug\net5.0\PreDir.pdb
+C:\Users\Reema\source\repos\PreDir\PreDir\obj\Debug\net5.0\PreDir.genruntimeconfig.cache

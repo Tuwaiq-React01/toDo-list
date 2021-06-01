@@ -1,0 +1,12 @@
+C:\Users\Reema\source\repos\MathLib\MathLib\bin\Debug\net5.0\MathLib.deps.json
+C:\Users\Reema\source\repos\MathLib\MathLib\bin\Debug\net5.0\MathLib.dll
+C:\Users\Reema\source\repos\MathLib\MathLib\bin\Debug\net5.0\ref\MathLib.dll
+C:\Users\Reema\source\repos\MathLib\MathLib\bin\Debug\net5.0\MathLib.pdb
+C:\Users\Reema\source\repos\MathLib\MathLib\obj\Debug\net5.0\MathLib.csprojAssemblyReference.cache
+C:\Users\Reema\source\repos\MathLib\MathLib\obj\Debug\net5.0\MathLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reema\source\repos\MathLib\MathLib\obj\Debug\net5.0\MathLib.AssemblyInfoInputs.cache
+C:\Users\Reema\source\repos\MathLib\MathLib\obj\Debug\net5.0\MathLib.AssemblyInfo.cs
+C:\Users\Reema\source\repos\MathLib\MathLib\obj\Debug\net5.0\MathLib.csproj.CoreCompileInputs.cache
+C:\Users\Reema\source\repos\MathLib\MathLib\obj\Debug\net5.0\MathLib.dll
+C:\Users\Reema\source\repos\MathLib\MathLib\obj\Debug\net5.0\ref\MathLib.dll
+C:\Users\Reema\source\repos\MathLib\MathLib\obj\Debug\net5.0\MathLib.pdb
