@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 import React, { Component } from 'react'
+import ListItem from './ListItem';
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
 
 export default class App extends Component {
   constructor(props){
@@ -12,6 +14,11 @@ export default class App extends Component {
     this.addItem = this.addItem.bind(this)
     this.accInput = this.accInput.bind(this)
     this.clear = this.clear.bind(this)
+  }
+  componentDidMount(){
+    this.setState({
+      list: ["Sample Item"]
+    })
   }
   addItem(){
     this.setState({
@@ -33,21 +40,14 @@ export default class App extends Component {
   }
   
   render() {
-    var items = this.state.list.map((value)=>{
-        return(
-          <li>{value}</li>
-        )
-    })
-
     return (
-      <div>
+      <div class="container">
         <h1>To-Do List</h1>
-        <ul id="List">
-          {items}
-        </ul>
+          <ListItem  listData={this.state.list} />
+          {/* {items} */}
         <input id="input" onChange={this.accInput} type="text"></input>
-        <button onClick={this.addItem}>Add Item</button>
-        <button onClick={this.clear}>Clear List</button>
+        <button class="mx-2 btn btn-dark" onClick={this.addItem}>Add Item</button>
+        <button class="mx-2 btn btn-dark" onClick={this.clear}>Clear List</button>
       </div>
     )
   }

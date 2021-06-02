@@ -3,19 +3,19 @@ import React, { Component } from 'react'
 export default class ListItem extends Component {
     constructor(props){
         super(props)
-        this.state ={
-            
-        }
-
+    
     }
 
-    // var items = 
     render() {
+        var items = this.props.listData.map((value)=>{
+            return(
+                <li class="list-group-item ">{value}</li>
+            )
+        })
         return (
-
-            <li>
-                item
-            </li>
+            <ul class="list-group-item">
+                {items}
+            </ul>
         )
     }
 }
