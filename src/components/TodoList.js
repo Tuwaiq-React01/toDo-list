@@ -8,6 +8,7 @@ class TodoList extends Component {
         this.state = {
             items: []//["Sleep", "Programming", "Repeat"]
         }
+        this.handleClearList = this.handleClearList.bind(this)
     }
 
     addTodoItem(newTitle) {
@@ -15,7 +16,7 @@ class TodoList extends Component {
         _items.push(<Todo title={newTitle} />)
 
         // set local storage 
-        const lsItems = JSON.parse(localStorage.getItem("TodoListItems"))
+        const lsItems = JSON.parse(localStorage.getItem("TodoListItems")) || []
         lsItems.push(newTitle)
         localStorage.setItem("TodoListItems", JSON.stringify(lsItems))
 
@@ -31,6 +32,7 @@ class TodoList extends Component {
         this.setState({
             items: []
         })
+        localStorage.removeItem("TodoListItems")
     } 
     
     // componentWillUnmount() {
@@ -43,7 +45,7 @@ class TodoList extends Component {
 
     componentDidMount(){
         this.setState({
-            items: JSON.parse(localStorage.getItem("TodoListItems"))
+            items: JSON.parse(localStorage.getItem("TodoListItems")) || []
         })
     }
 
