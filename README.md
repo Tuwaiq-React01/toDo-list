@@ -1,8 +1,21 @@
+# تطبيق لإدارة المهام | toDo List Application
+
+<br />
+<b> Student:</b>  Mohammed Rashed Albalawi.
+<br />
+<b> Group:</b>  Al-qiddiyah.
+<br />
+<b> Group Supervisor:</b>  Noorah Abdullah.
+
+
+<br />
+<hr />
+<br />
+
 
 
 <div dir="rtl" >
  
-# تطبيق لإدارة المهام | toDo List Application
 
 
 قم بتطبيق ما تم تعلمة في درس Component Lifecycle لتنفيذ تطبيق لإدارة المهام.
