@@ -1,0 +1,12 @@
+.list {
+  /* padding-top: 60px; */
+  /* margin-left: 500px; */
+  margin: 0 auto;
+  width: fit-content;
+  /* background-color: red; */
+  border: 3px solid black;
+}
+.item {
+  text-align: left;
+  /* justify-items: left; */
+}
