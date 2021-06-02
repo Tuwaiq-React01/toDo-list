@@ -4,7 +4,8 @@ import List from './Components/List';
 
 function App() {
 	return (
-		<div className='App d-flex justify-content-center align-items-center'>
+		<div className='App d-flex justify-content-evenly align-items-center flex-column'>
+            <h1>TODO List</h1>
 			<List />
 		</div>
 	);

@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState , useEffect } from 'react';
 import Item from './Item';
 
 const List = () => {
@@ -20,8 +20,12 @@ const List = () => {
 	let removeItem = (index) => {
 		items.splice(index, 1);
 		setItems([...items]);
-		console.log(items);
 	};
+
+    // Use Life Cycle Hook 
+    useEffect(()=>{
+        setItems(["Item With Use Effect" , "Use Effect"])
+    },[])
 
 	return (
 		<div className='container'>
