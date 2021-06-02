@@ -1,5 +1,3 @@
-
-
 <div dir="rtl" >
  
 # تطبيق لإدارة المهام | toDo List Application
