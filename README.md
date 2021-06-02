@@ -28,7 +28,7 @@
 
 ## Images
 
-![alt text](https://res.cloudinary.com/duuconncq/image/upload/v1622657772/Screenshot_2021-06-02_210956_fdsojd.png)
+![alt text](https://res.cloudinary.com/duuconncq/image/upload/v1622662535/Screenshot_2021-06-02_223451_lvkrt0.png)
 
 ##
 
