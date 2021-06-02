@@ -101,7 +101,7 @@ const handleNO = ()=>{
                     <InputGroup style={{ width: "100%" }}>
                         <FormControl
                             id="list"
-                            placeholder="Recipient's username"
+                            placeholder="Type your text here"
                             onChange={(e) => { itemChange(e); }}
                         />
                         <Button onClick={(e) => AddItem(e)} variant="outline-primary">Add To list</Button>
