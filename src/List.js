@@ -22,7 +22,8 @@ export default class List extends Component {
         e.preventDefault();
 
         this.setState({
-            itemsList: this.state.itemsList.concat(this.state.newItem)
+            itemsList: this.state.itemsList.concat(this.state.newItem), 
+            newItem: ""
         })
     }
 
@@ -35,7 +36,7 @@ export default class List extends Component {
 
     render() {
         let itemsList = this.state.itemsList.map((element, index) => (
-            <Item item={element} key={index}/>
+            <Item item={element} key={index}/>            
         ))
 
         console.log(this.state.newItem);
@@ -43,13 +44,16 @@ export default class List extends Component {
             <div>
                 <ul>
                 {itemsList}
-                </ul>
-                <form>
-                    <input type="text" onChange={(e) => this.onChangeText(e)} value={this.state.newItem}/>
-                    <button onClick={(e)=> this.addTheItem(e)}>Add the item</button>
-                    <button onClick={(e) => this.clearTheList(e)} placeholder="Add your item here!!">CLear the list</button>
-                </form>
-                
+                </ul>                
+                <input type="text" onChange={(e) => this.onChangeText(e)} value={this.state.newItem}/>                                              
+                <hr></hr>
+                <div>
+                <button type="button" class="btn btn-warning" onClick={(e)=> this.addTheItem(e)}>Add the item</button>
+                </div>
+                <hr></hr>
+                <div>
+                <button type="button" class="btn btn-warning" onClick={(e) => this.clearTheList(e)} placeholder="Add your item here!!">Clear the list</button>                                
+                </div>
             </div>
         )
     }
