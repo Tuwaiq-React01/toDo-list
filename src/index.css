@@ -11,4 +11,5 @@ code {
 
 .container {
     max-width: 50vw!important;
+    min-width: 300px;
 }
