@@ -4,9 +4,9 @@ export default class TodoList extends Component {
     render() {
         return (
             <div>
-                <li>
-                   <h1>Hi</h1> 
-                </li>
+                <ul>
+                {this.props.list.map(item=><li>{item}</li>)}
+                </ul>
             </div>
         )
     }
