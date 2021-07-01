@@ -1,11 +1,10 @@
 
-[![BCH compliance](https://bettercodehub.com/edge/badge/Abdullah-ALHaif/toDo-list?branch=main)](https://bettercodehub.com/)
-
 <div dir="rtl" >
  
 # تطبيق لإدارة المهام | toDo List Application
 
-
+[![BCH compliance](https://bettercodehub.com/edge/badge/Abdullah-ALHaif/toDo-list?branch=main)](https://bettercodehub.com/)
+ 
 قم بتطبيق ما تم تعلمة في درس Component Lifecycle لتنفيذ تطبيق لإدارة المهام.
 
   <br/>
