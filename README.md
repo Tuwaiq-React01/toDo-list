@@ -1,4 +1,5 @@
 
+[![BCH compliance](https://bettercodehub.com/edge/badge/Abdullah-ALHaif/toDo-list?branch=main)](https://bettercodehub.com/)
 
 <div dir="rtl" >
  
